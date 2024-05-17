@@ -1,22 +1,39 @@
 {
-    "memes": [
-        {
-            "id": 1,
-            "img_url": "https://i.imgflip.com/7dh3x9.jpg",
-            "likes": 1,
-            "caption": "Woosh"
-        },
-        {
-            "id": 2,
-            "img_url": "https://www.cnet.com/a/img/resize/b91f76de73cb2fc61e3dd7112e4a3e768cac4fbd/hub/2012/12/17/b8f59d5e-fdb4-11e2-8c7c-d4ae52e62bcc/3s8ipj.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "likes": 2,
-            "caption": "Grumpy cat"
-        },
-        {
-            "id": 3,
-            "img_url": "https://static01.nyt.com/images/2010/06/14/business/sub-jp-burger-2/sub-jp-burger-2-popup.jpg?quality=75&auto=webp&disable=upscale",
-            "likes": 3,
-            "caption": "But seriously where is my cheezburger"
-        }
-    ]
+  "memes": [
+    {
+      "id": 1,
+      "img_url": "https://i.imgflip.com/7dh3x9.jpg",
+      "likes": 2,
+      "caption": "Woosh"
+    },
+    {
+      "img_url": "https://img-9gag-fun.9cache.com/photo/482121_460s.jpg",
+      "caption": "blueprints",
+      "id": 4
+    },
+    {
+      "img_url": "https://media.discordapp.net/attachments/1186823333564653658/1241041399898701864/funny-cat-pics-and-memes-cover_800.png?ex=6648c15f&is=66476fdf&hm=cbece4446d9de0c6e665c2123521b35c8c03cfb5f3476139bb102154afd2c0a4&=&format=webp&quality=lossless&width=1017&height=678",
+      "caption": "phone cat",
+      "likes": 0,
+      "id": 5
+    },
+    {
+      "img_url": "https://images-ext-1.discordapp.net/external/fzVHxynNKvwBhrjujNc1SDG7xPhHdQKeTjC_pZc8dvc/https/i.pinimg.com/736x/e7/39/d7/e739d7e4bd7ab8b00ecadc5ade00b2fa.jpg?format=webp",
+      "caption": "watermelon hat",
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "img_url": "https://media.discordapp.net/attachments/1186823333564653658/1241043476079181946/517r-1LZfgL.png?ex=6648c34e&is=664771ce&hm=a0719f5cdfbb62d86e658dbf711ef1baeb3f9188a3ee5b2e38d00fc93eef1424&=&format=webp&quality=lossless&width=678&height=678",
+      "caption": "thumbs cat",
+      "likes": 47,
+      "id": 8
+    },
+    {
+      "img_url": "https://media.discordapp.net/attachments/1186823333564653658/1241044142100844544/Hilarious-Cat-Memes-7.png?ex=6648c3ec&is=6647726c&hm=1e257ffcc89fdc135a678b2f744e9acc0ab6a4acf3fa5e4ca0a61fc5bcf26156&=&format=webp&quality=lossless&width=678&height=678",
+      "caption": "self care",
+      "likes": 0,
+      "id": 9
+    }
+  ]
 }
